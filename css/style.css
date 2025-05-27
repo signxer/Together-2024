@@ -11,19 +11,19 @@ body {
     font-family: 'Noto Serif SC', 'Helvetica Neue', Arial, serif;
     line-height: 1.6;
     color: #333;
-    background-color: #f0e9e2;
-    background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%23d1c7b7' fill-opacity='0.2' fill-rule='evenodd'/%3E%3C/svg%3E");
+    background-color: #0a1929;
+    background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%23173a5e' fill-opacity='0.4' fill-rule='evenodd'/%3E%3C/svg%3E");
 }
 
 .container {
     max-width: 1200px;
     margin: 30px auto;
     padding: 30px;
-    background-color: #fff;
+    background-color: #0f2942;
     border-radius: 8px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(0, 0, 0, 0.1);
     position: relative;
-    background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%23f8f5f0' fill-opacity='0.4' fill-rule='evenodd'/%3E%3C/svg%3E");
+    background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%23112a45' fill-opacity='0.4' fill-rule='evenodd'/%3E%3C/svg%3E");
 }
 
 /* 相册装饰元素 */
@@ -35,9 +35,9 @@ body {
     transform: translateX(-50%);
     width: 100px;
     height: 30px;
-    background-color: rgba(255, 220, 115, 0.8);
+    background-color: rgba(212, 175, 55, 0.8);
     border-radius: 3px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     z-index: -1;
 }
 
@@ -46,7 +46,7 @@ header {
     text-align: center;
     margin-bottom: 40px;
     padding: 30px 0;
-    border-bottom: 2px solid #e8e0d5;
+    border-bottom: 2px solid #1e4976;
     position: relative;
 }
 
@@ -58,21 +58,21 @@ header::after {
     transform: translateX(-50%);
     width: 50%;
     height: 1px;
-    background-color: #d1c7b7;
+    background-color: #d4af37;
 }
 
 header h1 {
     font-family: 'Ma Shan Zheng', cursive;
     font-size: 3rem;
     margin-bottom: 15px;
-    color: #5d4037;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+    color: #d4af37;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
     letter-spacing: 2px;
 }
 
 header p {
     font-size: 1.2rem;
-    color: #7d6e63;
+    color: #a9c6e8;
     font-weight: 300;
 }
 
@@ -86,17 +86,21 @@ header p {
 }
 
 .department-card {
-    background-color: white;
-    border-radius: 5px;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-    padding: 25px;
+    background-color: #173a5e;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    padding: 30px 20px;
     text-align: center;
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     cursor: pointer;
     position: relative;
     overflow: hidden;
     transform-style: preserve-3d;
-    border: 1px solid rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(212, 175, 55, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .department-card::before {
@@ -105,26 +109,90 @@ header p {
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
-    background-image: linear-gradient(135deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 50%);
-    pointer-events: none;
-}
-
-.department-card::after {
-    content: '';
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    width: 20px;
-    height: 20px;
-    background-color: rgba(0, 0, 0, 0.03);
-    border-radius: 50%;
-    box-shadow: -15px 15px 0 rgba(0, 0, 0, 0.02), 15px 15px 0 rgba(0, 0, 0, 0.02), -15px -15px 0 rgba(0, 0, 0, 0.02), 15px -15px 0 rgba(0, 0, 0, 0.02);
+    height: 8px;
+    background: linear-gradient(90deg, #d4af37, #f5d76e, #d4af37);
 }
 
 .department-card:hover {
-    transform: translateY(-10px) rotateX(5deg) rotateY(5deg);
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(212, 175, 55, 0.2);
+}
+
+.department-initial {
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #d4af37, #f5d76e);
+    color: #0a1929;
+    font-size: 2.5rem;
+    font-weight: bold;
+    border-radius: 50%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    position: relative;
+    overflow: hidden;
+    font-family: 'Ma Shan Zheng', cursive;
+}
+
+.department-initial::before {
+    content: '';
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    width: 40px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+}
+
+.department-initial::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    right: -5px;
+    width: 30px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+}
+
+.department-card h2 {
+    font-size: 1.6rem;
+    color: #d4af37;
+    margin-top: 15px;
+    font-weight: 700;
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.department-card h2::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40px;
+    height: 2px;
+    background-color: #d4af37;
+    border-radius: 2px;
+}
+
+.department-card::after {
+    content: none;
+}
+
+.department-card:hover {
+    transform: translateY(-10px);
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(0, 0, 0, 0.05);
+}
+
+.department-icon {
+    display: none;
+}
+
+.department-icon::after {
+    content: none;
 }
 
 .department-icon {
@@ -133,7 +201,7 @@ header p {
     color: #5d4037;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
     position: relative;
-    display: inline-block;
+    display: none;
 }
 
 .department-icon::after {
@@ -146,35 +214,31 @@ header p {
     height: 2px;
     background-color: #e8e0d5;
     border-radius: 2px;
+    display: none;
 }
 
-.department-card h2 {
-    font-size: 1.6rem;
-    color: #5d4037;
-    margin-top: 10px;
-    font-weight: 700;
-}
+
 
 /* 照片展示页面样式 - 相册风格 */
 .back-button {
     display: inline-block;
     margin-bottom: 25px;
     padding: 10px 20px;
-    background-color: #8d6e63;
-    color: white;
+    background-color: #d4af37;
+    color: #0a1929;
     text-decoration: none;
     border-radius: 30px;
     font-weight: bold;
     transition: all 0.3s ease;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
     border: none;
     position: relative;
     overflow: hidden;
 }
 
 .back-button:hover {
-    background-color: #6d4c41;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+    background-color: #f5d76e;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
     transform: translateY(-2px);
 }
 
@@ -182,6 +246,7 @@ header p {
     margin-bottom: 40px;
     text-align: center;
     position: relative;
+    color: #d4af37;
 }
 
 .department-title::after {
@@ -192,7 +257,7 @@ header p {
     transform: translateX(-50%);
     width: 100px;
     height: 3px;
-    background-color: #d7ccc8;
+    background-color: #d4af37;
     border-radius: 3px;
 }
 
@@ -206,10 +271,10 @@ header p {
     position: relative;
     overflow: hidden;
     border-radius: 5px;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1), 0 0 0 1px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(0, 0, 0, 0.1);
     margin-bottom: 25px;
     transition: all 0.4s ease;
-    border: 10px solid white;
+    border: 10px solid #173a5e;
 }
 
 .photo-wrapper::before {
@@ -219,7 +284,7 @@ header p {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(120deg, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0) 70%);
+    background-image: linear-gradient(120deg, rgba(212, 175, 55, 0.2) 0%, rgba(212, 175, 55, 0) 70%);
     pointer-events: none;
     z-index: 1;
 }
@@ -232,9 +297,9 @@ header p {
     transform: translateX(-50%);
     width: 30%;
     height: 20px;
-    background-color: rgba(255, 220, 115, 0.7);
+    background-color: rgba(212, 175, 55, 0.7);
     border-radius: 3px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     z-index: -1;
 }
 
@@ -258,13 +323,14 @@ header p {
 }
 
 .photo-caption {
-    background-color: white;
+    background-color: #173a5e;
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     position: relative;
-    border: 1px solid rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(212, 175, 55, 0.2);
     transition: all 0.3s ease;
+    color: #a9c6e8;
 }
 
 .photo-caption::before {
@@ -274,14 +340,14 @@ header p {
     left: -5px;
     width: 10px;
     height: 30px;
-    background-color: rgba(255, 220, 115, 0.7);
+    background-color: rgba(212, 175, 55, 0.7);
     border-radius: 3px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 .photo-caption h3 {
     margin-bottom: 15px;
-    color: #5d4037;
+    color: #d4af37;
     font-size: 1.4rem;
     font-weight: 700;
     position: relative;
@@ -295,7 +361,7 @@ header p {
     left: 0;
     width: 100%;
     height: 2px;
-    background-color: #e8e0d5;
+    background-color: #d4af37;
     border-radius: 2px;
 }
 
@@ -304,27 +370,28 @@ header p {
 }
 
 .name-tag {
-        display: inline-block;
-        padding: 6px 12px;
-        margin: 5px;
-        border-radius: 20px;
-        font-size: 0.95rem;
-        color: #5d4037;
-        transition: all 0.3s ease;
+    display: inline-block;
+    padding: 6px 12px;
+    margin: 5px;
+    border-radius: 20px;
+    font-size: 0.95rem;
+    color: #d4af37;
+    background-color: rgba(212, 175, 55, 0.1);
+    transition: all 0.3s ease;
 }
 
 .name-tag:hover {
-    background-color: #e8e0d5;
+    background-color: rgba(212, 175, 55, 0.2);
     transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 /* 页脚样式 */
 footer {
     text-align: center;
     padding: 30px 0 20px;
-    border-top: 2px solid #e8e0d5;
-    color: #8d6e63;
+    border-top: 2px solid #1e4976;
+    color: #a9c6e8;
     position: relative;
 }
 
@@ -336,7 +403,7 @@ footer::before {
     transform: translateX(-50%);
     width: 50%;
     height: 1px;
-    background-color: #d1c7b7;
+    background-color: #d4af37;
 }
 
 /* 全屏查看模式样式 */
@@ -346,7 +413,7 @@ footer::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(10, 25, 41, 0.95);
     z-index: 1000;
     display: none;
     justify-content: center;
@@ -375,7 +442,7 @@ footer::before {
     object-fit: contain;
     touch-action: none;
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
-    border: 15px solid white;
+    border: 15px solid #173a5e;
     transform: scale(0.95);
     transition: transform 0.3s ease;
 }
@@ -390,7 +457,7 @@ footer::before {
     right: 20px;
     width: 50px;
     height: 50px;
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(212, 175, 55, 0.3);
     color: white;
     border: none;
     border-radius: 50%;
@@ -403,8 +470,104 @@ footer::before {
 }
 
 .close-fullscreen:hover {
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(212, 175, 55, 0.5);
     transform: rotate(90deg);
+}
+
+/* 密码验证层样式 */
+.auth-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(10, 25, 41, 0.95);
+    z-index: 2000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: opacity 0.5s ease;
+}
+
+.auth-container {
+    background-color: #173a5e;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+    padding: 30px;
+    width: 90%;
+    max-width: 500px;
+    text-align: center;
+    border: 1px solid rgba(212, 175, 55, 0.2);
+}
+
+.auth-container h2 {
+    color: #d4af37;
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+}
+
+.auth-description {
+    margin-bottom: 25px;
+    color: #a9c6e8;
+}
+
+.password-input-container {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+#password-input {
+    flex: 1;
+    padding: 12px 15px;
+    border: 1px solid #1e4976;
+    background-color: #0f2942;
+    color: #a9c6e8;
+    border-radius: 5px 0 0 5px;
+    font-size: 1rem;
+}
+
+#submit-password {
+    padding: 12px 20px;
+    background-color: #d4af37;
+    color: #0a1929;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+#submit-password:hover {
+    background-color: #f5d76e;
+}
+
+.auth-error {
+    color: #ff6b6b;
+    margin-bottom: 20px;
+    min-height: 20px;
+    font-weight: bold;
+}
+
+.portrait-rights-notice {
+    margin-top: 30px;
+    text-align: left;
+    padding: 15px;
+    background-color: #0f2942;
+    border-radius: 5px;
+    border-left: 4px solid #d4af37;
+}
+
+.portrait-rights-notice h3 {
+    color: #d4af37;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
+
+.portrait-rights-notice p {
+    color: #a9c6e8;
+    font-size: 0.9rem;
+    margin-bottom: 8px;
+    line-height: 1.5;
 }
 
 /* 响应式调整 */
