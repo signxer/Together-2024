@@ -7,8 +7,14 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@400;700&display=swap');
 
+/* 添加系统字体备选方案，确保iOS设备上有合适的备选字体 */
+:root {
+    --main-font: 'Noto Serif SC', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
+    --title-font: 'Ma Shan Zheng', cursive, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'STKaiti', 'Microsoft YaHei', sans-serif;
+}
+
 body {
-    font-family: 'Noto Serif SC', 'Helvetica Neue', Arial, serif;
+    font-family: var(--main-font);
     line-height: 1.6;
     color: #333;
     background-color: #0a1929;
@@ -62,7 +68,7 @@ header::after {
 }
 
 header h1 {
-    font-family: 'Ma Shan Zheng', cursive;
+    font-family: var(--title-font);
     font-size: 3rem;
     margin-bottom: 15px;
     color: #d4af37;
@@ -132,7 +138,7 @@ header p {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     position: relative;
     overflow: hidden;
-    font-family: 'Ma Shan Zheng', cursive;
+    font-family: var(--title-font);
 }
 
 .department-initial::before {
