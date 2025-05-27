@@ -304,16 +304,16 @@ header p {
 }
 
 .name-tag {
-    display: inline-block;
-    background-color: #f5f0e8;
-    padding: 6px 12px;
-    margin: 5px;
-    border-radius: 20px;
-    font-size: 0.95rem;
-    color: #5d4037;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
-    transition: all 0.3s ease;
-    border: 1px solid rgba(0, 0, 0, 0.03);
+        display: inline-block;
+        /* background-color: #f5f0e8; */
+        padding: 6px 12px;
+        margin: 5px;
+        border-radius: 20px;
+        font-size: 0.95rem;
+        color: #5d4037;
+        /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05); */
+        transition: all 0.3s ease;
+        /* border: 1px solid rgba(0, 0, 0, 0.03); */
 }
 
 .name-tag:hover {
